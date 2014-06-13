@@ -1,0 +1,6 @@
+(use 'looping-is-recursion)
+(avg [])
+(use 'looping-is-recursion :reload)
+(avg [])
+(use 'looping-is-recursion :reload)
+quit
